@@ -1,0 +1,14 @@
+body{
+	background-color: grey;
+}
+h1{
+			color: orange;
+			font-size: 50px; 
+		}
+		h2{
+			color: blue;
+		}
+		.small{
+			color: green;
+			font-size: 20px;
+		}
